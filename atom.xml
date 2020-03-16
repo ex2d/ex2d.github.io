@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>老余博客</title>
+  
+  <subtitle>乐于分享，专注互联网技术</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yuweiqing.com/"/>
+  <updated>2020-03-09T18:19:19.000Z</updated>
+  <id>https://yuweiqing.com/</id>
+  
+  <author>
+    <name>老余</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>开启不蒜子统计</title>
+    <link href="https://yuweiqing.com/2020/03/10/%E5%BC%80%E5%90%AF%E4%B8%8D%E8%92%9C%E5%AD%90%E7%BB%9F%E8%AE%A1/"/>
+    <id>https://yuweiqing.com/2020/03/10/%E5%BC%80%E5%90%AF%E4%B8%8D%E8%92%9C%E5%AD%90%E7%BB%9F%E8%AE%A1/</id>
+    <published>2020-03-09T17:58:54.000Z</published>
+    <updated>2020-03-09T18:19:19.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>NexT 预置了 不蒜子 提供的网页计数功能。</p><p>编辑 next/_config.yml，找到相关配置并启用：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">busuanzi_count:</span><br><span class="line">enable: true</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;NexT 预置了 不蒜子 提供的网页计数功能。&lt;/p&gt;
+&lt;p&gt;编辑 next/_config.yml，找到相关配置并启用：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;busuanzi_count:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;enable: true&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>归来</title>
+    <link href="https://yuweiqing.com/2020/03/03/%E5%BD%92%E6%9D%A5/"/>
+    <id>https://yuweiqing.com/2020/03/03/%E5%BD%92%E6%9D%A5/</id>
+    <published>2020-03-02T18:31:19.000Z</published>
+    <updated>2020-03-04T19:17:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="2020年的春节遇上了席卷全球的冠状病毒"><a href="#2020年的春节遇上了席卷全球的冠状病毒" class="headerlink" title="2020年的春节遇上了席卷全球的冠状病毒"></a>2020年的春节遇上了席卷全球的冠状病毒</h1><p><strong>这个春节</strong> 史上最长的假期, 因为疫情，整整在老家呆了一个多月。今日才返深。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2020年的春节遇上了席卷全球的冠状病毒&quot;&gt;&lt;a href=&quot;#2020年的春节遇上了席卷全球的冠状病毒&quot; class=&quot;headerlink&quot; title=&quot;2020年的春节遇上了席卷全球的冠状病毒&quot;&gt;&lt;/a&gt;2020年的春节遇上了席卷全球的冠状病毒&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;这个春节&lt;/strong&gt; 史上最长的假期, 因为疫情，整整在老家呆了一个多月。今日才返深。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="life" scheme="https://yuweiqing.com/categories/life/"/>
+    
+    
+      <category term="疫情" scheme="https://yuweiqing.com/tags/%E7%96%AB%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>年味</title>
+    <link href="https://yuweiqing.com/2020/01/24/%E5%B9%B4%E5%91%B3/"/>
+    <id>https://yuweiqing.com/2020/01/24/%E5%B9%B4%E5%91%B3/</id>
+    <published>2020-01-23T17:39:15.000Z</published>
+    <updated>2020-03-09T19:10:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="年味"><a href="#年味" class="headerlink" title="年味"></a>年味</h1><p>@(2020年小镇街市闹热)[|过年|春节气息]</p><p><strong>春节</strong> 过年, <strong>上圩</strong> 置办年货，腊月廿六，集市上闹热无比。在外的游子陆续返乡，回到老家忙着过年前的各项准备工作。</p><a id="more"></a><ul><li><strong>买对联</strong> - 过年贴对联，中国传统春节必须的。</li><li>添新衣-  大人小孩， 尤其是为小孩买新衣裳新鞋子。</li><li><strong>购买各种食材</strong> - 准备过年食用的各种年货， 小镇上没有大型的综合市场，大多是摊档贩卖。</li></ul><hr><h2 id="从一组镜头体验过年前的小镇街景"><a href="#从一组镜头体验过年前的小镇街景" class="headerlink" title="从一组镜头体验过年前的小镇街景"></a>从一组镜头体验过年前的小镇街景</h2><blockquote><p>集市上热闹无比，买对联，添新衣，购买食材。</p></blockquote><p><img src="https://i.loli.net/2020/01/24/CuOI6Fby1HeBt3P.jpg" alt="微信图片_20200120205554.jpg"></p><p><img src="https://i.loli.net/2020/01/24/h6I4B9ZqnKa8jzV.jpg" alt="微信图片_20200120205711.jpg"></p><p><img src="https://i.loli.net/2020/01/24/mKuGCw2WsxBHZXA.jpg" alt="微信图片_20200120205707.jpg"></p><p><img src="https://i.loli.net/2020/01/24/yKAIeFhV5sS48Mk.jpg" alt="微信图片_20200120205725.jpg"></p><p><img src="https://i.loli.net/2020/01/24/75TuibEYJBSnMDI.jpg" alt="微信图片_20200120205901.jpg"></p><p><img src="https://i.loli.net/2020/01/24/S9ovwnTdrmbKtWI.jpg" alt="微信图片_20200120205630.jpg"></p><p><img src="https://i.loli.net/2020/01/24/hQDzIqLRueGZwmc.jpg" alt="微信图片_20200120205817.jpg"></p><p><img src="https://i.loli.net/2020/01/24/9mc6LwGdleFo4Bh.jpg" alt="微信图片_20200120205837.jpg"></p><p><img src="https://i.loli.net/2020/01/24/ztXb7uriyshREna.jpg" alt="微信图片_20200120205832.jpg"></p><p><img src="https://i.loli.net/2020/01/24/JVGZMSUETlx3NCL.jpg" alt="微信图片_20200120205849.jpg"></p><p><img src="https://i.loli.net/2020/01/24/TIE4hs7kDqxM8Xp.jpg" alt="微信图片_20200120205812.jpg"></p><p><img src="https://i.loli.net/2020/01/24/1SfZwRBIGtCXhdj.jpg" alt="微信图片_20200120205716.jpg"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;年味&quot;&gt;&lt;a href=&quot;#年味&quot; class=&quot;headerlink&quot; title=&quot;年味&quot;&gt;&lt;/a&gt;年味&lt;/h1&gt;&lt;p&gt;@(2020年小镇街市闹热)[|过年|春节气息]&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;春节&lt;/strong&gt; 过年, &lt;strong&gt;上圩&lt;/strong&gt; 置办年货，腊月廿六，集市上闹热无比。在外的游子陆续返乡，回到老家忙着过年前的各项准备工作。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;买对联&lt;/strong&gt; - 过年贴对联，中国传统春节必须的。&lt;/li&gt;
+&lt;li&gt;添新衣-  大人小孩， 尤其是为小孩买新衣裳新鞋子。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;购买各种食材&lt;/strong&gt; - 准备过年食用的各种年货， 小镇上没有大型的综合市场，大多是摊档贩卖。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;从一组镜头体验过年前的小镇街景&quot;&gt;&lt;a href=&quot;#从一组镜头体验过年前的小镇街景&quot; class=&quot;headerlink&quot; title=&quot;从一组镜头体验过年前的小镇街景&quot;&gt;&lt;/a&gt;从一组镜头体验过年前的小镇街景&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;集市上热闹无比，买对联，添新衣，购买食材。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/01/24/CuOI6Fby1HeBt3P.jpg&quot; alt=&quot;微信图片_20200120205554.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2020/01/24/h6I4B9ZqnKa8jzV.jpg&quot; alt=&quot;微信图片_20200120205711.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="生活记录" scheme="https://yuweiqing.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="春节" scheme="https://yuweiqing.com/tags/%E6%98%A5%E8%8A%82/"/>
+    
+  </entry>
+  
+</feed>
