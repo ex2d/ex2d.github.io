@@ -18,6 +18,12 @@ align=center></p>
     <content><![CDATA[<p>NexT 预置了 不蒜子 提供的网页计数功能。</p>
 <p>编辑 next/_config.yml，找到相关配置并启用：</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">busuanzi_count:</span><br><span class="line">enable: true</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>hexo next主题配置</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
   </entry>
   <entry>
     <title>归来</title>
@@ -25,7 +31,7 @@ align=center></p>
     <content><![CDATA[<h1 id="2020年的春节遇上了席卷全球的冠状病毒"><a href="#2020年的春节遇上了席卷全球的冠状病毒" class="headerlink" title="2020年的春节遇上了席卷全球的冠状病毒"></a>2020年的春节遇上了席卷全球的冠状病毒</h1><p><strong>这个春节</strong> 史上最长的假期, 因为疫情，整整在老家呆了一个多月。今日才返深。</p>
 ]]></content>
       <categories>
-        <category>life</category>
+        <category>生活记录</category>
       </categories>
       <tags>
         <tag>疫情</tag>

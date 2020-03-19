@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuweiqing.com/"/>
-  <updated>2020-03-16T08:22:30.000Z</updated>
+  <updated>2020-03-19T02:02:32.000Z</updated>
   <id>https://yuweiqing.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yuweiqing.com/2020/03/16/working/"/>
     <id>https://yuweiqing.com/2020/03/16/working/</id>
     <published>2020-03-16T07:50:40.000Z</published>
-    <updated>2020-03-16T08:22:30.000Z</updated>
+    <updated>2020-03-19T02:02:32.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="复工了"><a href="#复工了" class="headerlink" title="复工了"></a>复工了</h1><p>@(冠状病毒)[自我隔离|全球扩散 |曙光]</p><p><strong>3月16日</strong>，回深近14天后, 今天终于开始恢复工作。 </p><p><img src="https://i.loli.net/2020/03/16/9KC67yWetqcz253.jpg" width = "600" height = "400" alt="复工" align=center></p>]]></content>
     
@@ -45,7 +45,7 @@
     <link href="https://yuweiqing.com/2020/03/10/%E5%BC%80%E5%90%AF%E4%B8%8D%E8%92%9C%E5%AD%90%E7%BB%9F%E8%AE%A1/"/>
     <id>https://yuweiqing.com/2020/03/10/%E5%BC%80%E5%90%AF%E4%B8%8D%E8%92%9C%E5%AD%90%E7%BB%9F%E8%AE%A1/</id>
     <published>2020-03-09T17:58:54.000Z</published>
-    <updated>2020-03-09T18:19:19.000Z</updated>
+    <updated>2020-03-19T02:04:26.000Z</updated>
     
     <content type="html"><![CDATA[<p>NexT 预置了 不蒜子 提供的网页计数功能。</p><p>编辑 next/_config.yml，找到相关配置并启用：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">busuanzi_count:</span><br><span class="line">enable: true</span><br></pre></td></tr></table></figure>]]></content>
     
@@ -58,6 +58,10 @@
     </summary>
     
     
+      <category term="hexo next主题配置" scheme="https://yuweiqing.com/categories/hexo-next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
+    
+    
+      <category term="hexo" scheme="https://yuweiqing.com/tags/hexo/"/>
     
   </entry>
   
@@ -66,7 +70,7 @@
     <link href="https://yuweiqing.com/2020/03/03/%E5%BD%92%E6%9D%A5/"/>
     <id>https://yuweiqing.com/2020/03/03/%E5%BD%92%E6%9D%A5/</id>
     <published>2020-03-02T18:31:19.000Z</published>
-    <updated>2020-03-04T19:17:05.000Z</updated>
+    <updated>2020-03-19T02:02:17.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="2020年的春节遇上了席卷全球的冠状病毒"><a href="#2020年的春节遇上了席卷全球的冠状病毒" class="headerlink" title="2020年的春节遇上了席卷全球的冠状病毒"></a>2020年的春节遇上了席卷全球的冠状病毒</h1><p><strong>这个春节</strong> 史上最长的假期, 因为疫情，整整在老家呆了一个多月。今日才返深。</p>]]></content>
     
@@ -78,7 +82,7 @@
     </summary>
     
     
-      <category term="life" scheme="https://yuweiqing.com/categories/life/"/>
+      <category term="生活记录" scheme="https://yuweiqing.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
     
     
       <category term="疫情" scheme="https://yuweiqing.com/tags/%E7%96%AB%E6%83%85/"/>
