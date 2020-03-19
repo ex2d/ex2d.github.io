@@ -274,7 +274,7 @@ kbd {
 table {
   border-collapse: collapse;
   border-spacing: 0;
-  font-size: 0.875em;
+  font-size: 1em;
   margin: 0 0 20px 0;
   width: 100%;
 }
@@ -310,7 +310,7 @@ td {
   border-radius: 2px;
   color: #555;
   display: inline-block;
-  font-size: 0.875em;
+  font-size: 1em;
   line-height: 2;
   padding: 0 20px;
   text-decoration: none;
@@ -415,7 +415,7 @@ code {
   background: #eee;
   color: #4d4d4c;
   display: flex;
-  font-size: 0.875em;
+  font-size: 1em;
   justify-content: space-between;
   line-height: 1.2;
   padding: 0.5em;
@@ -457,7 +457,7 @@ pre {
 pre code {
   background: none;
   color: #4d4d4c;
-  font-size: 0.875em;
+  font-size: 1em;
   padding: 0;
   text-shadow: none;
 }
@@ -989,7 +989,7 @@ pre .javascript .function {
 }
 .site-subtitle {
   color: #ddd;
-  font-size: 0.8125em;
+  font-size: 0.875em;
   margin: 10px 0;
 }
 .use-motion .brand {
@@ -1060,7 +1060,7 @@ pre .javascript .function {
 .menu-item span.exturl {
   border-bottom: 0;
   display: block;
-  font-size: 0.8125em;
+  font-size: 0.875em;
   transition-property: border-color;
   transition-delay: 0s;
   transition-duration: 0.2s;
@@ -1144,7 +1144,7 @@ pre .javascript .function {
 }
 .site-description {
   color: #999;
-  font-size: 0.8125em;
+  font-size: 0.875em;
   margin-top: 0;
   text-align: center;
 }
@@ -1155,14 +1155,14 @@ pre .javascript .function {
 .links-of-author span.exturl {
   border-bottom-color: #555;
   display: inline-block;
-  font-size: 0.8125em;
+  font-size: 0.875em;
   margin-bottom: 10px;
   margin-right: 10px;
   vertical-align: middle;
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ac7f99;
+  background: #ffff41;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1193,11 +1193,11 @@ pre .javascript .function {
   color: #fff;
 }
 .links-of-blogroll {
-  font-size: 0.8125em;
+  font-size: 0.875em;
   margin-top: 10px;
 }
 .links-of-blogroll-title {
-  font-size: 0.875em;
+  font-size: 1em;
   font-weight: 600;
   margin-top: 0;
 }
@@ -1237,7 +1237,7 @@ pre .javascript .function {
   color: #555;
   cursor: pointer;
   display: inline-block;
-  font-size: 0.875em;
+  font-size: 1em;
 }
 .sidebar-nav li.sidebar-nav-overview {
   margin-left: 10px;
@@ -1282,7 +1282,7 @@ pre .javascript .function {
   background: #fc6423;
 }
 .post-toc {
-  font-size: 0.875em;
+  font-size: 1em;
 }
 .post-toc ol {
   list-style: none;
@@ -1353,11 +1353,11 @@ pre .javascript .function {
 }
 .site-state-item-name {
   color: #999;
-  font-size: 0.8125em;
+  font-size: 0.875em;
 }
 .footer {
   color: #999;
-  font-size: 0.875em;
+  font-size: 1em;
   padding: 20px 0;
 }
 .footer.footer-fixed {
@@ -1494,13 +1494,13 @@ pre .javascript .function {
   }
 }
 .post-body span.exturl .fa {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-left: 4px;
 }
 .post-body .image-caption,
 .post-body .figure .caption {
   color: #999;
-  font-size: 0.875em;
+  font-size: 1em;
   font-weight: bold;
   line-height: 1;
   margin: -20px auto 15px;
@@ -1598,7 +1598,7 @@ pre .javascript .function {
   left: 0;
   margin-left: -4px;
   position: absolute;
-  top: 0.75em;
+  top: 0.8125em;
   transition-property: background;
   width: 6px;
   transition-delay: 0s;
@@ -1613,7 +1613,7 @@ pre .javascript .function {
 }
 .posts-collapse .post-meta {
   display: inline;
-  font-size: 0.75em;
+  font-size: 0.8125em;
   margin-right: 10px;
 }
 .posts-collapse .post-title {
@@ -1637,7 +1637,7 @@ pre .javascript .function {
   width: 4px;
 }
 .posts-collapse .fa-external-link {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-left: 5px;
 }
 .post-eof {
@@ -1781,18 +1781,18 @@ pre .javascript .function {
   visibility: visible;
 }
 .posts-expand .post-title-link .fa {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-left: 5px;
 }
 .posts-expand .post-meta {
   color: #999;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 0.75em;
+  font-size: 0.8125em;
   margin: 3px 0 60px 0;
   text-align: center;
 }
 .posts-expand .post-meta .post-description {
-  font-size: 0.875em;
+  font-size: 1em;
   margin-top: 2px;
 }
 .posts-expand .post-meta time {
@@ -1832,7 +1832,7 @@ pre .javascript .function {
 .post-nav-item a {
   border-bottom: none;
   display: block;
-  font-size: 0.875em;
+  font-size: 1em;
   line-height: 1.6;
   position: relative;
 }
@@ -1840,7 +1840,7 @@ pre .javascript .function {
   top: 2px;
 }
 .post-nav-item .fa {
-  font-size: 0.75em;
+  font-size: 0.8125em;
 }
 .post-nav-item:first-child {
   margin-right: 15px;
@@ -1884,7 +1884,7 @@ pre .javascript .function {
 }
 .post-tags a {
   display: inline-block;
-  font-size: 0.8125em;
+  font-size: 0.875em;
 }
 .post-tags a:not(:last-child) {
   margin-right: 10px;
@@ -1903,7 +1903,7 @@ pre .javascript .function {
 }
 .social-like {
   display: flex;
-  font-size: 0.875em;
+  font-size: 1em;
   justify-content: center;
   text-align: center;
 }
@@ -2099,7 +2099,7 @@ pre .javascript .function {
   }
 }
 ul.breadcrumb {
-  font-size: 0.75em;
+  font-size: 0.8125em;
   list-style: none;
   margin: 1em 0;
   padding: 0 2em;
