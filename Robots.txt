@@ -1,0 +1,25 @@
+# welcome to : www.yuweiqing.com
+# 允许访问的内容
+Allow: /
+Allow: /archives/
+Allow: /article/
+Allow: /categories/
+Allow: /page/
+Allow: /photos/
+Allow: /tags/
+Allow: /source/
+
+# 不允许访问的内容
+Disallow: /assets/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /music/
+Disallow: /css/
+
+Disallow: /*.js
+Disallow: /*.css
+
+# 网站地图Sitemap
+Sitemap: https://yuweiqing.com/sitemap.xml
+Sitemap: https://yuweiqing.com/baidusitemap.xml
