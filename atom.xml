@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuweiqing.com/"/>
-  <updated>2020-04-30T04:20:30.000Z</updated>
+  <updated>2020-04-30T06:20:22.000Z</updated>
   <id>https://yuweiqing.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cloudflare CDN加速</title>
+    <link href="https://yuweiqing.com/2020/04/30/Cloudflare/"/>
+    <id>https://yuweiqing.com/2020/04/30/Cloudflare/</id>
+    <published>2020-04-30T06:07:11.000Z</published>
+    <updated>2020-04-30T06:20:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Cloudflare"><a href="#Cloudflare" class="headerlink" title="Cloudflare"></a>Cloudflare</h3><blockquote><p>这两天通过查看Cloudflare的防火墙规则拦截的后台活动日志，发现大量访客来自全球各地，很多不同的IP地址，访问的页面也是网站涉及会员或管理入口PHP页面，猜想可能是通过软件扫描、密码暴力破解、恶意注入等手段。我不确定免费版用户当攻击流量达到多少的时候，CF会否暂时停止加速和DNS解析，从而导致<a href="http://www.515334.net" target="_blank" rel="noopener">网站</a> 无法打开。</p></blockquote><p><img src="https://i.loli.net/2020/04/30/IpdAxQCnF8fwrBD.png" alt="78.PNG"></p><p>我尝试关闭CDN加速仅仅用它的DNS解析，用服务器IP直连，结果访问一切正常。<br>还是说，cloudflare这几天又抽风了。</p><p><img src="https://i.loli.net/2020/04/30/RSpg7VD924rmvfJ.png" alt="789.PNG"></p>]]></content>
+    
+    <summary type="html">
+    
+      cloudflare又抽风了吗？
+    
+    </summary>
+    
+    
+      <category term="CDN加速" scheme="https://yuweiqing.com/categories/CDN%E5%8A%A0%E9%80%9F/"/>
+    
+    
+      <category term="cloudflare" scheme="https://yuweiqing.com/tags/cloudflare/"/>
+    
+  </entry>
   
   <entry>
     <title>有惊无险，网站服务器文件被删</title>

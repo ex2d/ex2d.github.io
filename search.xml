@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Cloudflare CDN加速</title>
+    <url>/2020/04/30/Cloudflare/</url>
+    <content><![CDATA[<h3 id="Cloudflare"><a href="#Cloudflare" class="headerlink" title="Cloudflare"></a>Cloudflare</h3><blockquote><p>这两天通过查看Cloudflare的防火墙规则拦截的后台活动日志，发现大量访客来自全球各地，很多不同的IP地址，访问的页面也是网站涉及会员或管理入口PHP页面，猜想可能是通过软件扫描、密码暴力破解、恶意注入等手段。我不确定免费版用户当攻击流量达到多少的时候，CF会否暂时停止加速和DNS解析，从而导致<a href="http://www.515334.net" target="_blank" rel="noopener">网站</a> 无法打开。</p></blockquote><p><img src="https://i.loli.net/2020/04/30/IpdAxQCnF8fwrBD.png" alt="78.PNG"></p><p>我尝试关闭CDN加速仅仅用它的DNS解析，用服务器IP直连，结果访问一切正常。<br>还是说，cloudflare这几天又抽风了。</p><p><img src="https://i.loli.net/2020/04/30/RSpg7VD924rmvfJ.png" alt="789.PNG"></p>]]></content>
+      <categories>
+        <category>CDN加速</category>
+      </categories>
+      <tags>
+        <tag>cloudflare</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>有惊无险，网站服务器文件被删</title>
     <url>/2020/04/30/hack/</url>
     <content><![CDATA[<h2 id="网站被黑"><a href="#网站被黑" class="headerlink" title="网站被黑"></a>网站被黑</h2><blockquote><ul><li>网站服务器数据被删</li><li>心慌了一B</li><li>连夜排除</li><li>长叹一口气，终于恢复了</li></ul></blockquote><a id="more"></a><p><img src="https://i.loli.net/2020/04/27/xaIBn5j6qUASMtm.jpg" alt="1254251233.jpg"></p><blockquote><p>第一次感受到网络安全的惊心动魄。是的，我的一个小站，基于Discuz搭建的论坛服务器被<strong>Hack</strong>,很多关键文件被删除导致论坛无法打开。</p></blockquote><p><img src="https://i.loli.net/2020/04/27/sWRvh8uejTMcVd5.jpg" alt="593034029.jpg"></p><p>此前用国内阿里云主机，还对其三天两头的安全防护提醒感到厌烦。<br>现在才明白网站的安全防护有多么重要。</p><p>最后，安全起见，赶紧修改服务器登录密码，服务器端添加另外端口替换22端口，禁用22端口登录。<br>重新添加防火墙规则，并启用防火墙。</p><p>我还在排查到底是哪个环节出现问题，或者说对方是通过何种方式入侵的。<br>很大一部分原因估计是暴力破解，被拿到了sftp密码最终导致数据被删。</p><p>这两天通过查看CDN Cloudflare的后台活动日志，大量的不同IP扫描或暴力破解或恶意注入。<br>怪不得，这几天网站访问一直断断续续的。难不成因为大量扫描带来的？由此触动了CDN设置的阀门？</p><p><img src="https://i.loli.net/2020/04/30/IpdAxQCnF8fwrBD.png" alt="78.PNG"></p><p>吃一堑长一智，通过此次事件，是时候加强网络安全运维方面的学习了。</p>]]></content>
