@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuweiqing.com/"/>
-  <updated>2020-04-30T06:20:22.000Z</updated>
+  <updated>2020-05-18T06:11:13.000Z</updated>
   <id>https://yuweiqing.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>learning</title>
+    <link href="https://yuweiqing.com/2020/05/18/learning/"/>
+    <id>https://yuweiqing.com/2020/05/18/learning/</id>
+    <published>2020-05-18T03:38:26.000Z</published>
+    <updated>2020-05-18T06:11:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="近日，各地发生多例学生跳楼事件"><a href="#近日，各地发生多例学生跳楼事件" class="headerlink" title="近日，各地发生多例学生跳楼事件"></a>近日，各地发生多例学生跳楼事件</h4><blockquote><p>据报道，复学以来，全国各地均有发生学生跳楼自杀事件，而且就在几日前，我的家乡所长在城市就陆续发生了五六起。</p></blockquote><p>正是花儿般的年纪，为什么会发生这样的悲剧？</p><a id="more"></a><p>我想发生这样的悲剧的原因是多方面的。校方，家庭，以及学生自身都有责任。</p><p>说到学习，微信群里看到一位家长提供的某学校学生学习作息安排表，上面的时间安排简直是丝丝入缝啊。</p><p><img src="https://i.loli.net/2020/05/18/5olutbA9V8CjOsF.png" alt="23.PNG"></p><p>国家一方面说要帮孩子们减负，减少家庭作业时间，另一方面，学校为了出成绩，强化学习就成了必然。<br>在我国应试教育制度还没变革之前，各地学校之间，学生的压力可想而知！</p><p>作为大人，我们都晓得说，人生的路不仅仅只有高考那一座独木桥，还有其他的路以及沿途无限美好的风景。<br>可是，有多少家长在忙着自己生意的时候，忽略了对孩子的关爱以及开导。</p><p>但愿学生们跳楼自杀这样的悲剧以后不要再发生了。这样的选择，无疑是孩子的父母一辈子的痛，更是无法承受之重。</p>]]></content>
+    
+    <summary type="html">
+    
+      痛心，多名学生跳楼自杀...
+    
+    </summary>
+    
+    
+    
+      <category term="青少年自杀" scheme="https://yuweiqing.com/tags/%E9%9D%92%E5%B0%91%E5%B9%B4%E8%87%AA%E6%9D%80/"/>
+    
+  </entry>
   
   <entry>
     <title>Cloudflare CDN加速</title>
