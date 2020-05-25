@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuweiqing.com/"/>
-  <updated>2020-05-18T06:24:19.000Z</updated>
+  <updated>2020-05-25T18:14:00.000Z</updated>
   <id>https://yuweiqing.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>注册了一个新域名</title>
+    <link href="https://yuweiqing.com/2020/05/26/domain/"/>
+    <id>https://yuweiqing.com/2020/05/26/domain/</id>
+    <published>2020-05-25T18:13:37.000Z</published>
+    <updated>2020-05-25T18:14:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>看到全新的Discuz!Q版本正在发布内测，手痒，想申请内测，结果DNSPOD提示账户下必须得有一个域名。都是套路啊。注册了一个域名，在腾讯云购买了一台广州的云主机，1M带宽2G内存，95一年。价格是真香，不过第二年续费恢复原价得要800多一年。（也是满满的营销套路）。</p><p>本想着第一时间准备提交备案的，结果，被提示域名注册后得过了3个自然日才能申请备案。我记得以前在阿里云备案貌似没这个限制。</p><p>原来的Discuz真的是太笨重了，赶不上当下自媒体移动的发展，毕竟当年是以PC为主战场的，申请内测Q版本，正好折腾学习下新技术。</p>]]></content>
+    
+    <summary type="html">
+    
+      注册域名买腾讯云主机，准备入坑...
+    
+    </summary>
+    
+    
+      <category term="Discuz!Q" scheme="https://yuweiqing.com/categories/Discuz-Q/"/>
+    
+    
+      <category term="注册域名" scheme="https://yuweiqing.com/tags/%E6%B3%A8%E5%86%8C%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
     <title>多名学生跳楼自杀</title>
     <link href="https://yuweiqing.com/2020/05/18/learning/"/>
     <id>https://yuweiqing.com/2020/05/18/learning/</id>
     <published>2020-05-18T03:38:26.000Z</published>
-    <updated>2020-05-18T06:24:19.000Z</updated>
+    <updated>2020-05-18T06:38:02.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="近日，各地发生多例学生跳楼事件"><a href="#近日，各地发生多例学生跳楼事件" class="headerlink" title="近日，各地发生多例学生跳楼事件"></a>近日，各地发生多例学生跳楼事件</h4><blockquote><p>据报道，复学以来，全国各地均有发生学生跳楼自杀事件，而且就在几日前，我的家乡所长在城市就陆续发生了五六起。</p></blockquote><p>正是花儿般的年纪，为什么会发生这样的悲剧？</p><a id="more"></a><p>我想发生这样的悲剧的原因是多方面的。校方，家庭，以及学生自身都有责任。</p><p>说到学习，微信群里看到一位家长提供的某学校学生学习作息安排表，上面的时间安排简直是丝丝入缝啊。</p><p><img src="https://i.loli.net/2020/05/18/5olutbA9V8CjOsF.png" alt="23.PNG"></p><p>国家一方面说要帮孩子们减负，减少家庭作业时间，另一方面，学校为了出成绩，强化学习就成了必然。只要我国的应试教育制度存在一天，由此给学校、学生带来的巨大压力就不可能避免。</p><p>作为大人，我们都晓得说，人生的路不仅仅只有高考那一座独木桥，还有其他的路以及沿途无限美好的风景。可是，有多少家长在忙着自己生意的时候，忽略了对孩子的关爱以及开导。</p><p>但愿学生们跳楼自杀这样的悲剧以后不要再发生了。这样的选择，无疑是孩子的父母一辈子的痛，更是无法承受之重。</p>]]></content>
     
