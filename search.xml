@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>一行代码让博客开启黑白模式</title>
+    <url>/2022/12/08/black%20and%20white/</url>
+    <content><![CDATA[<h4 id="一键设置全站黑白…"><a href="#一键设置全站黑白…" class="headerlink" title="一键设置全站黑白…"></a>一键设置全站黑白…</h4><p>前阵子长者逝世，举国哀悼，所有主流网站首页全都是黑白页面，<br>如果你也想这么做的话，只需要把下列一行代码加入到前即可</p><style>html{-webkit-filter:grayscale(100%)}</style>]]></content>
+      <categories>
+        <category>学习分享</category>
+      </categories>
+      <tags>
+        <tag>黑白模式</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>呀呀呀，疫情三年，终于放开</title>
     <url>/2022/12/07/covid-bye-bye/</url>
     <content><![CDATA[<h4 id="陆续放开了，鼓励跨省流动…"><a href="#陆续放开了，鼓励跨省流动…" class="headerlink" title="陆续放开了，鼓励跨省流动…"></a>陆续放开了，鼓励跨省流动…</h4><blockquote><p>疫情3年，每天捅捅捅，终于摆脱了…</p></blockquote><p>疫情放开管控，更多的是自己为自己负责了，<br>拼命干吧，套用网上流传的段子，现在疫情放开了，<br>来年要是再赚不到钱，就再也不好意思说是疫情惹的祸了。</p>]]></content>
