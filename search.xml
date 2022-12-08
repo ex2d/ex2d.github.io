@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>一行代码让博客开启黑白模式</title>
-    <url>/2022/12/08/black%20and%20white/</url>
+    <url>/2022/12/08/black-white/</url>
     <content><![CDATA[<h4 id="一键设置全站黑白…"><a href="#一键设置全站黑白…" class="headerlink" title="一键设置全站黑白…"></a>一键设置全站黑白…</h4><p>前阵子长者逝世，举国哀悼，所有主流网站首页全都是黑白页面，<br>如果你也想这么做的话，只需要把下列一行代码加入到前即可</p><style>html{-webkit-filter:grayscale(100%)}</style>]]></content>
       <categories>
         <category>学习分享</category>
