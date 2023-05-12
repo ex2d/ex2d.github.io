@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>二胎奶爸模式开启中...</title>
+    <url>/2023/05/12/babycare/</url>
+    <content><![CDATA[<h4 id="奶爸下班后的日常…"><a href="#奶爸下班后的日常…" class="headerlink" title="奶爸下班后的日常…"></a>奶爸下班后的日常…</h4><blockquote><p>二胎这个娃简直太能闹腾了…</p></blockquote><p>快满九个月了，现在能坐，还不会爬。<br>发现都不爱爬，就喜欢让人扶着站，<br>哪天可能直接跳过这个阶段突然站起来也不出奇。<br>太爱动了，哭声也太大了，吃奶前的那个情绪激动，哭喊声那个劲简直惊天动地。<br>男娃跟女娃的区别可能就在这了。一胎女娃安静得多。<br>现在的生活节奏就是上班下班，买菜做饭，带娃陪娃，感觉时间都不够用…</p>]]></content>
+      <categories>
+        <category>生活记录</category>
+      </categories>
+      <tags>
+        <tag>带娃</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一行代码让博客开启黑白模式</title>
     <url>/2022/12/08/black-white/</url>
     <content><![CDATA[<h4 id="一键设置全站黑白…"><a href="#一键设置全站黑白…" class="headerlink" title="一键设置全站黑白…"></a>一键设置全站黑白…</h4><p>前阵子长者逝世，举国哀悼，所有主流网站首页全都是黑白页面，<br>如果你也想这么做的话，只需要把下列一行代码加入到前即可。</p><figure class="highlight markdown"><table><tr><td class="code"><pre><span class="line"><span class="xml"><span class="tag">&lt;<span class="name">style</span>&gt;</span></span>html &#123;-webkit-filter: grayscale(100%);&#125;<span class="xml"><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span></span><br></pre></td></tr></table></figure>]]></content>

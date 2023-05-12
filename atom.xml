@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yuweiqing.com/"/>
-  <updated>2022-12-08T06:16:20.000Z</updated>
+  <updated>2023-05-12T06:00:57.000Z</updated>
   <id>https://yuweiqing.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>二胎奶爸模式开启中...</title>
+    <link href="https://yuweiqing.com/2023/05/12/babycare/"/>
+    <id>https://yuweiqing.com/2023/05/12/babycare/</id>
+    <published>2023-05-12T05:55:31.000Z</published>
+    <updated>2023-05-12T06:00:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="奶爸下班后的日常…"><a href="#奶爸下班后的日常…" class="headerlink" title="奶爸下班后的日常…"></a>奶爸下班后的日常…</h4><blockquote><p>二胎这个娃简直太能闹腾了…</p></blockquote><p>快满九个月了，现在能坐，还不会爬。<br>发现都不爱爬，就喜欢让人扶着站，<br>哪天可能直接跳过这个阶段突然站起来也不出奇。<br>太爱动了，哭声也太大了，吃奶前的那个情绪激动，哭喊声那个劲简直惊天动地。<br>男娃跟女娃的区别可能就在这了。一胎女娃安静得多。<br>现在的生活节奏就是上班下班，买菜做饭，带娃陪娃，感觉时间都不够用…</p>]]></content>
+    
+    <summary type="html">
+    
+      那个闹啊闹...
+    
+    </summary>
+    
+    
+      <category term="生活记录" scheme="https://yuweiqing.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/"/>
+    
+    
+      <category term="带娃" scheme="https://yuweiqing.com/tags/%E5%B8%A6%E5%A8%83/"/>
+    
+  </entry>
   
   <entry>
     <title>一行代码让博客开启黑白模式</title>
